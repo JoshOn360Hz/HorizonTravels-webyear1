@@ -43,7 +43,30 @@ This project is not licensed for redistribution or academic use. Feel free to ex
 ---
 
 ##  Screenshots
-(Add images of your project here if possible)
+
+### 🏠 Home Page
+![Home Page](Screenshots/Home.png)
+
+### 🔑 User Login
+![User Login](Screenshots/User%20Login.png)
+
+### 👤 My Account Page
+![My Account](Screenshots/My%20Account.png)
+
+### 🔒 Admin Login
+![Admin Login](Screenshots/Admin%20Login.png)
+
+### ⚙️ Admin Panel
+![Admin Panel](Screenshots/Admin%20Pannel.png)
+
+### 📜 About Page
+![About Page](Screenshots/About.png)
+
+### 💺 Seat Map and Contact Card
+![Seat Map and Contact Card](Database/Screenshots/Seat%20map%20and%20contact%20card....png)
+
+### 📱 Tablet View
+![Tablet View](Database/Screenshots/Tablet%20View.png)
 
 ---
 
