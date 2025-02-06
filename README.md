@@ -1,6 +1,6 @@
 # HorizonTravels-webyear1
 
-Git repository for my **Year 1 Web Development Project** – *Horizon Travels* ✈️🌍  
+Git repository for my **Year 1 Web Development Project** – *Horizon Travels* 
 This project is a **flight booking system** built using Flask, with features like user authentication, flight booking, payment processing, and admin management.
 
 ---
@@ -55,8 +55,10 @@ cd HorizonTravels-webyear1
 ```
 
 ### 2 Install requirements
+```sh
 Windows : pip install -r requirements.txt
 Mac : pip3 install -r requirements.txt
+```
 
 ### 3 Set up database 
     1.  Create a MySQL database.
