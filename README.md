@@ -19,11 +19,11 @@ Any unauthorized use of this project for academic submissions violates universit
 Please use this repository only for learning and improving your skills.
 
 
-##  License
+## 📜 License
 
 This project is not licensed for redistribution or academic use. Feel free to explore and learn from the code, but do not submit it as coursework.
 
-##  Features
+## 🚀 Features
 - **User Authentication**: Secure login and registration system with session
 - **Flight Booking**: Browse and book flights with ease
 - **Boarding Pass Generator**: Downloadable PDF boarding passes with QR codes
@@ -33,7 +33,7 @@ This project is not licensed for redistribution or academic use. Feel free to ex
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL
@@ -42,7 +42,7 @@ This project is not licensed for redistribution or academic use. Feel free to ex
 
 ---
 
-##  Screenshots
+## 📸 Screenshots
 
 ### 🏠 Home Page
 ![Home Page](Screenshots/Home.png)
