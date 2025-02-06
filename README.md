@@ -1,4 +1,4 @@
-# HorizonTravels-webyear1
+# HorizonTravels Web Development Year 1
 
 Git repository for my **Year 1 Web Development Project** – *Horizon Travels* 
 This project is a **flight booking system** built using Flask, with features like user authentication, flight booking, payment processing, and admin management.
