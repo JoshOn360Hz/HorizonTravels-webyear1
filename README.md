@@ -63,10 +63,10 @@ This project is not licensed for redistribution or academic use. Feel free to ex
 ![About Page](Screenshots/About.png)
 
 ### 💺 Seat Map and Contact Card
-![Seat Map and Contact Card](Database/Screenshots/Seat%20map%20and%20contact%20card....png)
+![Seat Map and Contact Card](Screenshots/Seat map and contact card.png)
 
 ### 📱 Tablet View
-![Tablet View](Database/Screenshots/Tablet%20View.png)
+![Tablet View](Screenshots/Tablet%20View.png)
 
 ---
 
