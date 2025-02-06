@@ -12,8 +12,8 @@ This project is a **flight booking system** built using Flask, with features lik
 
 This project is provided strictly for reference and learning purposes only.
 You are not allowed to:
-	•	Submit this project as your own work for any academic assignments.
-	•	Reproduce, distribute, or reuse this code for academic purposes.
+###	Submit this project as your own work for any academic assignments.	
+### Reproduce, distribute, or reuse this code for academic purposes.
 
 Any unauthorized use of this project for academic submissions violates university policies and ethical standards.
 Please use this repository only for learning and improving your skills.
