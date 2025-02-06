@@ -89,4 +89,8 @@ Mac : pip3 install -r requirements.txt
 	3.	Update db_config.py with your database credentials.
 
 ### Run app 
-python app.py
+```sh
+cd directory/you/cloned/to
+Windows: python app.py
+Mac: python3 app.py
+```
