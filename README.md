@@ -70,27 +70,4 @@ This project is not licensed for redistribution or academic use. Feel free to ex
 
 ---
 
-##  Installation & Setup
-### 1️ Clone the Repository
-```sh
-git clone https://github.com/YOUR-USERNAME/HorizonTravels-webyear1.git
-cd HorizonTravels-webyear1
-```
 
-### 2 Install requirements
-```sh
-Windows : pip install -r requirements.txt
-Mac : pip3 install -r requirements.txt
-```
-
-### 3 Set up database 
-    1.  Create a MySQL database.
-	2.	Import the provided .sql file.
-	3.	Update db_config.py with your database credentials.
-
-### Run app 
-```sh
-cd directory/you/cloned/to
-Windows: python app.py
-Mac: python3 app.py
-```
